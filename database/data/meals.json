@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Pancakes",
+        "name_trans": "Palačinke"
+    },
+    {
+        "name": "Pizza",
+        "name_trans": "Pizza"
+    },
+    {
+        "name": "Lasagne bologneze",
+        "name_trans": "Lazanje bologneze"
+    },
+    {
+        "name": "Fried chicken",
+        "name_trans": "Pohana kokoš"
+    },
+    {
+        "name": "Apple pie",
+        "name_trans": "Pita od jabuka"
+    },
+    {
+        "name": "Pommes frites",
+        "name_trans": "Pomfrit"
+    },
+    {
+        "name": "Fish and chips",
+        "name_trans": "Fish and chips"
+    },
+    {
+        "name": "Octopus salad",
+        "name_trans": "Hobotnica na salatu"
+    },
+    {
+        "name": "Bologneze",
+        "name_trans": "Bologneze"
+    },
+    {
+        "name": "Cherry pie",
+        "name_trans": "Pita od višanja"
+    },
+    {
+        "name": "Baklava",
+        "name_trans": "Baklava"
+    },
+    {
+        "name": "Seafood pallea",
+        "name_trans": "Plodovi mora"
+    },
+    {
+        "name": "Ham and eggs",
+        "name_trans": "Hemedex"
+    },
+    {
+        "name": "Grilled fish",
+        "name_trans": "Riba sa roštilja"
+    },
+    {
+        "name": "Fish soup",
+        "name_trans": "Riblja juha"
+    },
+    {
+        "name": "Mushroom soup",
+        "name_trans": "Juha od gljiva"
+    },
+    {
+        "name": "Cheescake",
+        "name_trans": "Torta od sira"
+    },
+    {
+        "name": "American pancakes",
+        "name_trans": "Američke palačinke"
+    },
+    {
+        "name": "Cheesburger",
+        "name_trans": "Cheesburger"
+    },
+    {
+        "name": "Hamburger",
+        "name_trans": "Hamburger"
+    }
+]
